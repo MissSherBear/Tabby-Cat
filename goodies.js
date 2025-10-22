@@ -16,7 +16,12 @@ got chrome storage: Object
     13: "glasses-Alien"
     14: "hat-Bow"
     15: "hat-Baseball"
-      length: 16
+
+{"newItems":[],"list":
+ ["toy-Coffee","toy-Martini","toy-Bone","toy-Dough","toy-Wine","glasses-Raybans","toy-MagicWand","hat-Spinner","hat-Sombrero","toy-Money","hat-Princess","toy-MiniGolf","hat-Fedora","glasses-Alien","hat-Bow","hat-Baseball","hat-Chef","toy-Sushi",
+  "toy-Strawberry","toy-HotDog","toy-Campfire","toy-BonsaiTree","toy-Pizza","glasses-CatEye","hat-Beanie","glasses-Heart","hat-Witch","toy-SoccerBall","toy-IceCream","toy-FoamFinger","hat-King","glasses-Blue","toy-Yarn","glasses-OldMan","toy-Burger",
+  "toy-Rocketship","toy-Donut","toy-Cactus","glasses-ThreeD","glasses-Aviators","glasses-Sunglasses","toy-Fishbones","hat-Fez","toy-Flowers","toy-RubberDuck","toy-Fishbowl","hat-PartyHat","toy-Synth","glasses-Scuba","glasses-Kerry","hat-Unicorn",
+  "toy-Flamingo","hat-Sweatband","toy-Mouse","toy-Cake","toy-Popsicle","hat-Ranger","hat-BeachBall","hat-TopHat","hat-ShrimponBarbie","toy-JazzCup","toy-Gold","toy-Egg","toy-Steak","toy-Meat","hat-FlowerCrown"]}
 
 {
   "newItems":[],
